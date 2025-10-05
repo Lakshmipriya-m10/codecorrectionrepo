@@ -1,0 +1,10 @@
+let username ="Alice";
+let itemsno=5;
+let item1="1.eggs";
+let item2="2.carrot";
+let item3="3.spanish";
+let item4="4.potatos";
+let item5="5.candy";
+let total="$20";
+console.log("Mr."+username+" brought "+itemsno+" items for "+total+".");
+console.log("The items are "+item1+","+item2+","+item3+","+item4+","+item5+".");
